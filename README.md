@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about technology and love creating 
 - 🔭 I’m currently working on various exciting projects
 - 🌱 I’m constantly learning and exploring new technologies
 - 💬 Ask me about anything tech-related
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
+- 📫 How to reach me: siddheshksuryawanshi@gmail.com(mailto:your.email@example.com)
 
 ## 🛠️ Technologies & Tools
 - Programming Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
